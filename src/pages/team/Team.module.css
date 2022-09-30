@@ -68,7 +68,7 @@
   align-items: center;
   padding-top: 60px;
 }
-.team .box .data img .img {
+.team .box .data img  {
   width: calc(100% - 60px);
   transition: var(--main-transition);
   border-radius: 10px;

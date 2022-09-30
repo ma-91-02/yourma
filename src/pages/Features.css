@@ -15,7 +15,7 @@
   border: 1px solid #ccc;
   z-index: 1;
   position: relative;
-  height: 655px;
+  height: 750px;
 }
 .features .box .img-holder {
   position: relative;
@@ -86,7 +86,8 @@
   border-radius: 6px;
   transition: var(--main-transition);
   position: absolute;
-  right: 134px;
+  align-items: center;
+  right: 39%;
   bottom: -10px;
 }
 .features .quality .img-holder::before {
